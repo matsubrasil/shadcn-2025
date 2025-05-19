@@ -29,7 +29,6 @@ import {
   SelectValue,
 } from '@/components/ui/select'
 import { Button } from './ui/button'
-import { redirect } from 'next/navigation'
 
 const formSchema = z.object({
   username: z
